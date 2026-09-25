@@ -2,7 +2,7 @@
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <can_edit_in_studio>true</can_edit_in_studio>
-        <enforce_license>none</enforce_license>
+        <enforce_license>log</enforce_license>
         <guided_setup_guid/>
         <hide_on_ui>false</hide_on_ui>
         <ide_created>SNS</ide_created>
@@ -25,7 +25,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description>App that enables users to check out loaner equipment</short_description>
         <source>x_cdltd_loaner_r_0</source>
-        <store_correlation_id>REPOAPP0000002997</store_correlation_id>
+        <store_correlation_id>REPOAPP0000002998</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -33,16 +33,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-09-18 15:03:30</sys_created_on>
         <sys_id>46eac61f359f03107f44f67bfb2dd404</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-09-25 17:21:18</sys_updated_on>
+        <sys_updated_on>2026-09-25 17:52:13</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=46eac61f359f03107f44f67bfb2dd404"/>
 </record_update>
