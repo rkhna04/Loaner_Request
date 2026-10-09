@@ -23,5 +23,6 @@
         <element label="End date" mandatory="true" max_length="255" name="end_date" type="glide_date_time"/>
         <element label="Requested for" mandatory="true" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
         <element label="Start date" mandatory="true" max_length="255" name="start_date" type="glide_date_time"/>
+        <element label="Pick up reminder" max_length="255" name="pick_up_reminder" type="glide_date_time"/>
     </element>
 </database>
